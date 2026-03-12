@@ -1,14 +1,10 @@
-# Certificates
-
----
-
-📜 Список сертификатов
+# 📜 Список сертификатов
 
 ### Технические курсы
 
-| № | Название курса | Платформа | Файл |
-|:--:|:---------------|:-----------|:------|
-| 1 | Курс по Introduction to SQL | Simplilearn | [📷 Смотреть сертификат](./Technical/Simplilearn%20Skill%20Up.png) |
-| 2 | Курс по SQL и получение данных | Нетология | [📷 Смотреть сертификат](./Technical/Нетология.png) |
+| № | Платформа | Изображение сертификата |
+|:--:|:----------|:------------------------|
+| 1 | **Simplilearn** (Skill Up) | [![Simplilearn сертификат](https://github.com/valentinmelnikovrf/Certificates/blob/Technical/Simplilearn%20Skill%20Up.png?raw=true)](https://github.com/valentinmelnikovrf/Certificates/blob/Technical/Simplilearn%20Skill%20Up.png) |
+| 2 | **Нетология** | [![Нетология сертификат](https://github.com/valentinmelnikovrf/Certificates/blob/Technical/Нетология.png?raw=true)](https://github.com/valentinmelnikovrf/Certificates/blob/Technical/Нетология.png) |
 
-> 💡 *Подсказка: нажмите на ссылку "Смотреть сертификат", чтобы открыть изображение.*
+*Нажмите на название платформы или на изображение, чтобы открыть сертификат в полном размере.*
